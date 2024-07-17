@@ -18,6 +18,7 @@ body
 .left-box
 {
     width: 500px;
+    margin-right: 100px;
 }
 
 .left-box img
